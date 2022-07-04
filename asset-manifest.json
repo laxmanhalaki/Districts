@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Districts/static/css/main.184ec2ec.css",
+    "main.js": "/Districts/static/js/main.e4f5f632.js",
+    "index.html": "/Districts/index.html",
+    "main.184ec2ec.css.map": "/Districts/static/css/main.184ec2ec.css.map",
+    "main.e4f5f632.js.map": "/Districts/static/js/main.e4f5f632.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.184ec2ec.css",
+    "static/js/main.e4f5f632.js"
+  ]
+}
